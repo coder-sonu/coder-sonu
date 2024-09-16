@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/roysonu/" target="blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://t.me/sonu-14" target="_blank">
+    <a href="https://t.me/@SonuRoy011" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 <!-- <a href="/" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"></a>
